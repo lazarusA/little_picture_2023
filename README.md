@@ -19,6 +19,13 @@ Numerous small pictures were generated, most of which correspond to locations wh
 
 
 ---
+<p float="center">
+  <img src="little_pictures/white/rainfall_by_hour_Timika.png" width="47%" />
+  <img src="little_pictures/white/grid_white.png" width="47%" /> 
+</p>
+
+
+---
 ### How to use this code?
 
 If you have a julia installation then simply cloning/downloading this folder and [`instantiating`](https://pkgdocs.julialang.org/v1/environments/) the project will do. 
