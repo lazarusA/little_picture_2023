@@ -25,8 +25,8 @@ If you have a julia installation then simply cloning/downloading this folder and
 
 ### License
 
-These little pictures are published under CC BY-SA 4.0 license. The code is under the MIT license.
+These little pictures are published under **CC BY-SA 4.0 license**. The **code** is under the **MIT license**.
 
-## Citation:
+## Citation, ERA5 Data:
 
 Hersbach, H., Bell, B., Berrisford, P., Biavati, G., Horányi, A., Muñoz Sabater, J., Nicolas, J., Peubey, C., Radu, R., Rozum, I., Schepers, D., Simmons, A., Soci, C., Dee, D., Thépaut, J-N. (2023): ERA5 hourly data on single levels from 1940 to present. Copernicus Climate Change Service (C3S) Climate Data Store (CDS), DOI: 10.24381/cds.adbb2d47
