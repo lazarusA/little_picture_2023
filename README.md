@@ -11,8 +11,12 @@ The data has been aggregated by initially selecting the city of interest and the
 Numerous small pictures were generated, most of which correspond to locations where rainfall persists throughout the year. Additional images could easily be generated.
 
 ---
-<img src="little_pictures/black/rainfall_by_hour_Timika.png" align="left" style="padding-left:4px;" width="45%"/>
-<img src="little_pictures/black/grid_black.png" align="right" style="padding-left:4px;" width="45%"/>
+
+<div align="center">
+    <img src="little_pictures/black/rainfall_by_hour_Timika.png" align="left" style="padding-left:4px;" width="45%"/>
+    <img src="little_pictures/black/grid_black.png" align="right" style="padding-left:4px;" width="45%"/>
+</div>
+
 ---
 
 ### How to use this code?
