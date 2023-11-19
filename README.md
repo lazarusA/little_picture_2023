@@ -6,7 +6,7 @@ Little Pictures of climate
 ### Variable: tp, total precipitaion
 The final data to generate these little pictures is included in this repository.
 
-The data has been aggregated by initially selecting the city of interest and then spanning 0.25 degrees in each direction, resulting in a 1-degree pixel centered at the target city. The mean total precipitation is calculated across all days of the year for each hour, resulting in an array of 24 numbers per year.
+The data has been aggregated by initially selecting the city of interest and then spanning 0.25 degrees in each direction, resulting in a 0.5-degree pixel centered at the target city. The mean total precipitation is calculated across all days of the year for each hour, resulting in an array of 24 numbers per year.
 
 Numerous small pictures were generated, most of which correspond to locations where rainfall persists throughout the year. Additional images could easily be generated.
 
