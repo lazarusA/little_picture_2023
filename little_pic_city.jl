@@ -83,14 +83,14 @@ for (c, city) in enumerate(cities)
             arrows!(ax, [-2.15], [0], [0.0], [0.01], arrowsize = 40, color = (txt_color ,0.75))
 
             text!(ax, pnts_t[1:60:end], text = ["00", "06", "12", "18"], align = (:center, :center),
-                fontsize = 32, color = txt_color)
+                fontsize = 42, color = txt_color, font=:bold)
             poly!(ax, drops_array, 
                 color = rdrops,
                 colormap= :managua, colorscale=log10,
                 colorrange = (mn+1e-10, mx+1e-10)
             )
             text!(ax, [Point2f(0,0), Point2f(-1.7,-1.7)], text = ["2003", "2022"],
-                fontsize = 32,
+                fontsize = 32, font=:bold,
                 color = txt_color , align=[(:center, :center),(:right, :bottom)])
             text!(ax_title, Point2f(0,-0.85),
                 text = rich("Mean total rainfall by hour\n\n\n", fontsize = 64, font=:bold,

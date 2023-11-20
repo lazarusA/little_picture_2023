@@ -24,7 +24,19 @@ Numerous small pictures were generated, most of which correspond to locations wh
   <img src="little_pictures/white/grid_white.png" width="47%" /> 
 </p>
 
+### Weekly versions
 
+<p float="center">
+  <img src="little_pictures/black/rainfall_weekly_timika.png" width="47%" />
+  <img src="little_pictures/black/grid_black_weekly.png" width="47%" /> 
+</p>
+
+
+---
+<p float="center">
+  <img src="little_pictures/white/rainfall_weekly_timika.png" width="47%" />
+  <img src="little_pictures/white/grid_white_weekly.png" width="47%" /> 
+</p>
 ---
 ### How to use this code?
 
