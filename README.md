@@ -38,6 +38,7 @@ Numerous small pictures were generated, most of which correspond to locations wh
   <img src="little_pictures/white/grid_white_weekly.png" width="47%" /> 
 </p>
 ---
+
 ### How to use this code?
 
 If you have a julia installation then simply cloning/downloading this folder and [`instantiating`](https://pkgdocs.julialang.org/v1/environments/) the project will do. 
